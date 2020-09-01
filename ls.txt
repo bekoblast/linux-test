@@ -1,0 +1,18 @@
+total 24
+drwxrwxr-x  2 beko beko 4096 Aug 30 22:42 .
+drwxr-xr-x 24 beko beko 4096 Aug 30 22:37 ..
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 another.pHp
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 an.TXT
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 asd.php
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 file2.php
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 file3.PHP
+-rw-rw-r--  1 beko beko   98 Aug 30 22:39 file.php
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 four.txt
+-rw-rw-r--  1 beko beko    0 Aug 30 22:42 ls.txt
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 one.php
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 qwerty.php
+-rw-rw-r--  1 beko beko   98 Aug 30 22:38 test2.txt
+-rw-rw-r--  1 beko beko   98 Aug 30 22:38 test3.php
+-rw-rw-r--  1 beko beko   41 Aug 30 22:38 test.txt
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 three.txt
+-rw-rw-r--  1 beko beko    0 Aug 30 00:48 two.TxT

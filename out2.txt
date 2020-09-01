@@ -1,0 +1,12 @@
+./another.pHp:1:./file.php:2:Hello World, Again!!
+./another.pHp:2:./file.php:3:Beko Blast and bax Neo
+./another.pHp:3:./file.php:5:Linux Tutorial
+./another.pHp:4:./test3.php:2:Hello World, Again!!
+./another.pHp:5:./test3.php:3:Beko Blast and bax Neo
+./another.pHp:6:./test3.php:5:Linux Tutorial
+./file.php:2:Hello World, Again!!
+./file.php:3:Beko Blast and bax Neo
+./file.php:5:Linux Tutorial
+./test3.php:2:Hello World, Again!!
+./test3.php:3:Beko Blast and bax Neo
+./test3.php:5:Linux Tutorial

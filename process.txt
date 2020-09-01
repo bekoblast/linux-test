@@ -1,0 +1,177 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 102120 11560 ?        Ss   21:46   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    21:46   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   21:46   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   21:46   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   21:46   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   21:46   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    21:46   0:00 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        R    21:46   0:01 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    21:46   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    21:46   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    21:46   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    21:46   0:00 [kdevtmpfs]
+root          16  0.0  0.0      0     0 ?        I<   21:46   0:00 [netns]
+root          17  0.0  0.0      0     0 ?        S    21:46   0:00 [rcu_tasks_kthre]
+root          18  0.0  0.0      0     0 ?        S    21:46   0:00 [kauditd]
+root          19  0.0  0.0      0     0 ?        S    21:46   0:00 [khungtaskd]
+root          20  0.0  0.0      0     0 ?        S    21:46   0:00 [oom_reaper]
+root          21  0.0  0.0      0     0 ?        I<   21:46   0:00 [writeback]
+root          22  0.0  0.0      0     0 ?        S    21:46   0:00 [kcompactd0]
+root          23  0.0  0.0      0     0 ?        SN   21:46   0:00 [ksmd]
+root          24  0.0  0.0      0     0 ?        SN   21:46   0:00 [khugepaged]
+root         116  0.0  0.0      0     0 ?        I<   21:46   0:00 [kintegrityd]
+root         117  0.0  0.0      0     0 ?        I<   21:46   0:00 [kblockd]
+root         118  0.0  0.0      0     0 ?        I<   21:46   0:00 [blkcg_punt_bio]
+root         119  0.0  0.0      0     0 ?        I<   21:46   0:00 [tpm_dev_wq]
+root         120  0.0  0.0      0     0 ?        I<   21:46   0:00 [ata_sff]
+root         121  0.0  0.0      0     0 ?        I<   21:46   0:00 [md]
+root         122  0.0  0.0      0     0 ?        I<   21:46   0:00 [edac-poller]
+root         123  0.0  0.0      0     0 ?        I<   21:46   0:00 [devfreq_wq]
+root         124  0.0  0.0      0     0 ?        S    21:46   0:00 [watchdogd]
+root         127  0.0  0.0      0     0 ?        S    21:46   0:00 [kswapd0]
+root         128  0.0  0.0      0     0 ?        S    21:46   0:00 [ecryptfs-kthrea]
+root         131  0.0  0.0      0     0 ?        I<   21:46   0:00 [kthrotld]
+root         132  0.0  0.0      0     0 ?        I<   21:46   0:00 [acpi_thermal_pm]
+root         133  0.0  0.0      0     0 ?        S    21:46   0:00 [scsi_eh_0]
+root         134  0.0  0.0      0     0 ?        I<   21:46   0:00 [scsi_tmf_0]
+root         135  0.0  0.0      0     0 ?        S    21:46   0:00 [scsi_eh_1]
+root         136  0.0  0.0      0     0 ?        I<   21:46   0:00 [scsi_tmf_1]
+root         138  0.0  0.0      0     0 ?        I<   21:46   0:00 [vfio-irqfd-clea]
+root         140  0.0  0.0      0     0 ?        I<   21:46   0:00 [ipv6_addrconf]
+root         151  0.0  0.0      0     0 ?        I<   21:46   0:00 [kstrp]
+root         155  0.0  0.0      0     0 ?        I<   21:46   0:00 [kworker/u3:0]
+root         171  0.0  0.0      0     0 ?        I<   21:46   0:00 [charger_manager]
+root         215  0.0  0.0      0     0 ?        S    21:46   0:00 [scsi_eh_2]
+root         216  0.0  0.0      0     0 ?        I<   21:46   0:00 [scsi_tmf_2]
+root         218  0.0  0.0      0     0 ?        S    21:46   0:00 [scsi_eh_3]
+root         220  0.0  0.0      0     0 ?        I<   21:46   0:00 [scsi_tmf_3]
+root         222  0.0  0.0      0     0 ?        I<   21:46   0:00 [kworker/0:1H-kblockd]
+root         243  0.0  0.0      0     0 ?        S    21:46   0:00 [jbd2/sda5-8]
+root         244  0.0  0.0      0     0 ?        I<   21:46   0:00 [ext4-rsv-conver]
+root         283  0.0  0.5  68300 23412 ?        S<s  21:46   0:01 /lib/systemd/systemd-journald
+root         309  0.0  0.1  23468  7136 ?        Ss   21:46   0:00 /lib/systemd/systemd-udevd
+root         310  0.0  0.0      0     0 ?        S    21:46   0:00 [irq/18-vmwgfx]
+root         311  0.0  0.0      0     0 ?        I<   21:46   0:00 [ttm_swap]
+root         332  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop0]
+root         335  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop1]
+root         338  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop2]
+root         341  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop3]
+root         345  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop4]
+root         347  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop5]
+root         348  0.0  0.0      0     0 ?        S<   21:46   0:00 [loop6]
+root         381  0.0  0.0      0     0 ?        I<   21:46   0:00 [iprt-VBoxWQueue]
+root         404  0.0  0.0      0     0 ?        I<   21:46   0:00 [cryptd]
+systemd+     556  0.0  0.3  24052 12348 ?        Ss   21:47   0:00 /lib/systemd/systemd-resolved
+systemd+     558  0.0  0.1  90420  6416 ?        Ssl  21:47   0:00 /lib/systemd/systemd-timesyncd
+root         582  0.0  0.2 250536  9368 ?        Ssl  21:47   0:00 /usr/lib/accountsservice/accounts-daemon
+root         583  0.0  0.0   2540   780 ?        Ss   21:47   0:00 /usr/sbin/acpid
+avahi        588  0.0  0.0   8508  3516 ?        Ss   21:47   0:00 avahi-daemon: running [beko-VirtualBox.local]
+root         590  0.0  0.0  18048  2800 ?        Ss   21:47   0:00 /usr/sbin/cron -f
+root         592  0.0  0.2  37196  8928 ?        Ss   21:47   0:00 /usr/sbin/cupsd -l
+message+     593  0.0  0.1   8852  5840 ?        Ss   21:47   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         594  0.0  0.5 347040 21392 ?        Ssl  21:47   0:01 /usr/sbin/NetworkManager --no-daemon
+root         609  0.0  0.5  47908 20316 ?        Ss   21:47   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         611  0.0  0.2 238944 11668 ?        Ssl  21:47   0:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       618  0.0  0.1 224332  4468 ?        Ssl  21:47   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         624  0.1  0.6 668020 27912 ?        Ssl  21:47   0:04 /usr/lib/snapd/snapd
+root         625  0.0  0.1 244336  6512 ?        Ssl  21:47   0:00 /usr/libexec/switcheroo-control
+root         626  0.0  0.2  16928  8276 ?        Ss   21:47   0:00 /lib/systemd/systemd-logind
+root         628  0.0  0.3 395580 14812 ?        Ssl  21:47   0:00 /usr/lib/udisks2/udisksd
+root         633  0.0  0.1  13672  5024 ?        Ss   21:47   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        643  0.0  0.0   8328   324 ?        S    21:47   0:00 avahi-daemon: chroot helper
+root         664  0.0  0.3 180432 12616 ?        Ssl  21:47   0:00 /usr/sbin/cups-browsed
+lp           665  0.0  0.1  15324  6640 ?        S    21:47   0:00 /usr/lib/cups/notifier/dbus dbus://
+root         686  0.0  0.2 313736 10708 ?        Ssl  21:47   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         709  0.0  0.5 126436 23060 ?        Ssl  21:47   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+whoopsie     722  0.0  0.3 327200 15888 ?        Ssl  21:47   0:00 /usr/bin/whoopsie -f
+kernoops     728  0.0  0.0  11248   448 ?        Ss   21:47   0:00 /usr/sbin/kerneloops --test
+kernoops     733  0.0  0.0  11248   448 ?        Ss   21:47   0:00 /usr/sbin/kerneloops
+root         954  0.0  0.2 248108  8732 ?        Ssl  21:47   0:00 /usr/sbin/gdm3
+root         972  0.0  0.0 304012  2596 ?        Sl   21:47   0:01 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root         981  0.0  0.2 323024  9704 ?        Sl   21:47   0:00 gdm-session-worker [pam/gdm-autologin]
+beko         986  0.0  0.2  19384 10572 ?        Ss   21:47   0:01 /lib/systemd/systemd --user
+beko         987  0.0  0.0 103384  3528 ?        S    21:47   0:00 (sd-pam)
+beko         994  0.0  0.4 1417132 19336 ?       S<sl 21:47   0:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+beko         996  0.0  0.6 519952 24372 ?        SNsl 21:47   0:00 /usr/libexec/tracker-miner-fs
+beko         999  0.0  0.1 248800  7172 ?        SLl  21:47   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+beko        1005  0.0  0.1  10820  7992 ?        Ss   21:47   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+beko        1006  0.0  0.1 172640  6428 tty2     Ssl+ 21:47   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+beko        1009  0.0  0.1 248328  7744 ?        Ssl  21:47   0:00 /usr/libexec/gvfsd
+beko        1012  0.6  1.5 235540 63204 tty2     Sl+  21:47   0:27 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+beko        1016  0.0  0.2 382056  8440 ?        Sl   21:47   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+beko        1020  0.0  0.2 399752 11536 ?        Ssl  21:47   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+beko        1040  0.0  0.1 246604  6796 ?        Ssl  21:47   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+beko        1044  0.0  0.1 244328  6308 ?        Ssl  21:47   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+rtkit       1047  0.0  0.0 152924  2940 ?        SNsl 21:47   0:00 /usr/libexec/rtkit-daemon
+beko        1049  0.0  0.2 325356  8724 ?        Ssl  21:47   0:00 /usr/libexec/gvfs-afc-volume-monitor
+beko        1056  0.0  0.1 244504  6188 ?        Ssl  21:47   0:00 /usr/libexec/gvfs-goa-volume-monitor
+beko        1060  0.0  0.8 550788 36080 ?        Sl   21:47   0:00 /usr/libexec/goa-daemon
+beko        1074  0.0  0.2 401036 11436 ?        Sl   21:47   0:00 /usr/libexec/goa-identity-service
+root        1078  0.0  0.2 260744  9776 ?        Ssl  21:47   0:00 /usr/lib/upower/upowerd
+beko        1086  0.0  0.3 199616 15448 tty2     Sl+  21:47   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+beko        1172  0.0  0.0  31204   360 ?        S    21:47   0:00 /usr/bin/VBoxClient --clipboard
+beko        1173  0.0  0.1 163604  4052 ?        Sl   21:47   0:00 /usr/bin/VBoxClient --clipboard
+beko        1183  0.0  0.0  31204   360 ?        S    21:47   0:00 /usr/bin/VBoxClient --seamless
+beko        1184  0.0  0.0 163440  2736 ?        Sl   21:47   0:00 /usr/bin/VBoxClient --seamless
+beko        1190  0.0  0.0  31204   364 ?        S    21:47   0:00 /usr/bin/VBoxClient --draganddrop
+beko        1191  0.3  0.0 163956  2804 ?        Sl   21:47   0:15 /usr/bin/VBoxClient --draganddrop
+beko        1201  0.0  0.0  31204   360 ?        S    21:47   0:00 /usr/bin/VBoxClient --vmsvga
+beko        1202  0.0  0.0 165712  3428 ?        Sl   21:47   0:00 /usr/bin/VBoxClient --vmsvga
+beko        1206  0.0  0.0   6032   456 ?        Ss   21:47   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+beko        1227  0.2  0.2 323408  9260 ?        Ssl  21:47   0:09 /usr/bin/ibus-daemon --daemonize --xim
+beko        1231  0.0  0.2 249004  9260 ?        Sl   21:47   0:00 /usr/libexec/ibus-dconf
+beko        1233  0.0  1.7 429848 72484 ?        Sl   21:47   0:01 /usr/libexec/ibus-ui-gtk3
+beko        1234  0.1  1.5 388236 61212 ?        Sl   21:47   0:05 /usr/libexec/ibus-extension-gtk3
+beko        1238  0.0  1.4 311160 58212 ?        Sl   21:47   0:01 /usr/libexec/ibus-x11 --kill-daemon
+beko        1240  0.0  0.2 248984  9312 ?        Sl   21:47   0:00 /usr/libexec/ibus-portal
+beko        1250  0.0  0.2 383496  9376 ?        Ssl  21:47   0:00 /usr/libexec/at-spi-bus-launcher
+beko        1256  0.0  0.1   7224  4220 ?        S    21:47   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+beko        1263  0.0  0.1 162896  6312 ?        Sl   21:47   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+beko        1273  0.0  0.1  98684  4312 ?        Ssl  21:47   0:00 /usr/libexec/gnome-session-ctl --monitor
+beko        1277  0.0  0.2 471432 10440 ?        Ssl  21:47   0:00 /usr/libexec/xdg-desktop-portal
+beko        1282  0.0  0.4 495252 17484 ?        Ssl  21:47   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+beko        1285  0.0  0.1 466156  6500 ?        Ssl  21:47   0:00 /usr/libexec/xdg-document-portal
+beko        1288  0.0  0.1 244224  4636 ?        Ssl  21:47   0:00 /usr/libexec/xdg-permission-store
+beko        1299  0.0  0.8 359140 32516 ?        Ssl  21:47   0:01 /usr/libexec/xdg-desktop-portal-gtk
+beko        1311  0.0  0.1 156200  5516 ?        Sl   21:47   0:00 /usr/libexec/dconf-service
+beko        1318  1.8  8.6 3672020 348728 ?      Ssl  21:47   1:12 /usr/bin/gnome-shell
+beko        1338  0.0  0.2 175176  9056 ?        Sl   21:47   0:03 /usr/libexec/ibus-engine-simple
+beko        1357  0.0  0.5 581680 21096 ?        Sl   21:47   0:00 /usr/libexec/gnome-shell-calendar-server
+beko        1364  0.0  0.6 685756 26260 ?        Ssl  21:47   0:00 /usr/libexec/evolution-source-registry
+beko        1374  0.0  0.7 716320 30152 ?        Ssl  21:47   0:00 /usr/libexec/evolution-calendar-factory
+beko        1390  0.0  0.7 682040 29584 ?        Ssl  21:47   0:00 /usr/libexec/evolution-addressbook-factory
+beko        1411  0.0  0.6 2607380 26568 ?       Sl   21:47   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+beko        1415  0.0  0.2 326176 10800 ?        Sl   21:47   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+beko        1434  0.0  0.2 322508  9020 ?        Ssl  21:47   0:00 /usr/libexec/gsd-a11y-settings
+beko        1437  0.0  0.7 505376 31248 ?        Ssl  21:47   0:00 /usr/libexec/gsd-color
+beko        1439  0.0  0.4 382948 17392 ?        Ssl  21:47   0:00 /usr/libexec/gsd-datetime
+beko        1442  0.0  0.2 322800  9588 ?        Ssl  21:47   0:00 /usr/libexec/gsd-housekeeping
+beko        1446  0.0  0.7 356888 30364 ?        Ssl  21:47   0:00 /usr/libexec/gsd-keyboard
+beko        1450  0.0  0.8 699172 32640 ?        Ssl  21:47   0:01 /usr/libexec/gsd-media-keys
+beko        1451  0.0  0.7 357512 30920 ?        Ssl  21:47   0:00 /usr/libexec/gsd-power
+beko        1454  0.0  0.2 256852 11244 ?        Ssl  21:47   0:00 /usr/libexec/gsd-print-notifications
+beko        1459  0.0  0.1 465724  5904 ?        Ssl  21:47   0:00 /usr/libexec/gsd-rfkill
+beko        1462  0.0  0.1 244136  5892 ?        Ssl  21:47   0:00 /usr/libexec/gsd-screensaver-proxy
+beko        1464  0.0  0.3 477496 12540 ?        Ssl  21:47   0:00 /usr/libexec/gsd-sharing
+beko        1466  0.0  0.2 326668 10524 ?        Ssl  21:47   0:00 /usr/libexec/gsd-smartcard
+beko        1468  0.0  0.2 330276 11096 ?        Ssl  21:47   0:00 /usr/libexec/gsd-sound
+beko        1472  0.0  0.2 396472  9352 ?        Ssl  21:47   0:00 /usr/libexec/gsd-usb-protection
+beko        1474  0.0  0.7 356472 30024 ?        Ssl  21:47   0:00 /usr/libexec/gsd-wacom
+beko        1477  0.0  0.2 326832 10536 ?        Ssl  21:47   0:00 /usr/libexec/gsd-wwan
+beko        1479  0.0  0.7 357528 31176 ?        Ssl  21:47   0:01 /usr/libexec/gsd-xsettings
+beko        1516  0.0  1.5 643340 60696 ?        Sl   21:47   0:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+beko        1531  0.0  0.1 231792  5700 ?        Sl   21:47   0:00 /usr/libexec/gsd-disk-utility-notify
+colord      1551  0.0  0.4 257584 16612 ?        Ssl  21:47   0:00 /usr/libexec/colord
+beko        1565  0.0  0.3 350812 15228 ?        Sl   21:47   0:00 /usr/libexec/gsd-printer
+beko        1606  0.4  4.6 1055568 189128 ?      Sl   21:47   0:17 /snap/snap-store/467/usr/bin/snap-store --gapplication-service
+root        1737  0.0  0.5 385848 23620 ?        Ssl  21:48   0:00 /usr/libexec/fwupd/fwupd
+beko        2188  0.0  0.1 170876  6268 ?        Ssl  21:48   0:00 /usr/libexec/gvfsd-metadata
+beko        2191  0.0  0.8 432228 35752 ?        Sl   21:48   0:00 update-notifier
+root        2550  0.0  0.0      0     0 ?        I    22:07   0:00 [kworker/u2:2-events_freezable_power_]
+beko        2604  0.5  1.3 972440 52824 ?        Ssl  22:09   0:12 /usr/libexec/gnome-terminal-server
+beko        2615  0.0  0.1  19392  5192 pts/0    Ss   22:09   0:00 bash
+root        2633  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/u2:0-events_power_efficient]
+root        2755  0.1  0.0      0     0 ?        I    22:30   0:01 [kworker/0:0-ata_sff]
+root        2837  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/0:3-events]
+beko        2949  0.0  0.0  20120  3384 pts/0    R+   22:52   0:00 ps aux

@@ -1,0 +1,23 @@
+total 68
+drwxrwxr-x  3 beko beko  4096 Sep  1 08:36 .
+drwxr-xr-x 31 beko beko  4096 Sep  1 08:33 ..
+-rw-rw-r--  1 beko beko   199 Aug 30 22:46 another.pHp
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 an.TXT
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 asd.php
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 file2.php
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 file3.PHP
+-rw-rw-r--  1 beko beko    98 Aug 30 22:39 file.php
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 four.txt
+drwxrwxr-x  8 beko beko  4096 Sep  1 08:37 .git
+-rw-rw-r--  1 beko beko   866 Aug 30 22:42 ls.txt
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 one.php
+-rw-rw-r--  1 beko beko   494 Aug 30 22:49 out2.txt
+-rw-rw-r--  1 beko beko   494 Aug 30 22:47 out.txt
+-rw-rw-r--  1 beko beko 17000 Aug 30 22:52 process.txt
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 qwerty.php
+-rw-rw-r--  1 beko beko    32 Sep  1 08:36 README.md
+-rw-rw-r--  1 beko beko    98 Aug 30 22:38 test2.txt
+-rw-rw-r--  1 beko beko    98 Aug 30 22:38 test3.php
+-rw-rw-r--  1 beko beko    41 Aug 30 22:38 test.txt
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 three.txt
+-rw-rw-r--  1 beko beko     0 Aug 30 00:48 two.TxT
